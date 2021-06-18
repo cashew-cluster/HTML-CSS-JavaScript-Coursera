@@ -1,2 +1,2 @@
-# HTML-CSS-JavaScript-Coursera
+# Web-Dev-Coursera
 HTML, CSS, and JavaScript for Web Developers
