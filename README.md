@@ -1,3 +1,2 @@
 # Web-Dev-Coursera
-HTML, CSS, and JavaScript for Web Developers
-Repository for course
+HTML, CSS, and JavaScript for Web Developers (repository for course)
